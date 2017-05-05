@@ -26,7 +26,9 @@ What about other companies? (apple computer? general electric? coca-cola? walmar
 | 4. | Delta Airlines     | $24.510B (14.05%) | $21.961B (12.31%) |  -14.46%  |
 
 *Taxes and the Profitability of an Airline:*
-```It looks like the airlines are paying no taxes or reaping gigantic government subsidies. The truth is much more nuanced.   Some years they pay the full rate (>35%), but once in a while they'll claim a giagantic tax benefit.  
+```
+It looks like the airlines are paying no taxes or reaping gigantic government subsidies. The truth is much more nuanced.   
+Some years they pay the full rate (>35%), but once in a while they'll claim a giagantic tax benefit.  
 These are carry-forward losses on net income dating back to 2008-2009ish.  
 Throughout that recession, airlines were slammed with billions in losses, and the price of oil was sky high (~$140/barrel).    
 American and United claimed huge tax benefits in 2015 (around 3B each).  
