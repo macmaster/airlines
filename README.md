@@ -53,12 +53,11 @@ In this respect, airfare hikes will always lag giangantic spikes in the price of
 #### Other Companies (2011-2016)
 | Rank | Company | Operating Income (Margin) | Profit (Margin) | Tax Rate |
 | ---- | ------- | ------------------------- | --------------- | -------- |
-| 1. | Apple Computer  | $0.000B (00.00%) | $0.000B (0.00%) |  +0.00%  |
-| 2. | Walmart         | $0.000B (00.00%) | $0.000B (0.00%) |  +0.00%  |
-| 3. | Coca-cola       | $0.000B (00.00%) | $0.000B (0.00%) |  +0.00%  |
-| 4. | McDonald's      | $0.000B (00.00%) | $0.000B (0.00%) |  +0.00%  |
-| 5. | General Electric    | $0.000B (00.00%) | $0.000B (0.00%) |  +0.00%  |
-| 6. | Cheveron        | $0.000B (00.00%) | $0.000B (0.00%) |  +0.00%  |
+| 1. | Apple Computer  | $321.787B (30.14%) | $243.283B (22.78%) |  +25.60%  |
+| 2. | Walmart         | $155.104B (5.45%)  | $97.310B (3.42%)   |  +31.60%  |
+| 3. | Coca-cola       | $58.242B (21.29%) | $47.334B (17.30%) |  +23.32%  |
+| 4. | McDonald's      | $48.738B (31.58%) | $30.527B (20.38%) |  +32.30%  |
+| 5. | Cheveron        | $257.481B (21.65%) | $98.530B (8.28%) |  +39.83%  |
 
 ## Airfare
 How has the price of an airline ticket changed from 1993 - 2016?  
