@@ -17,6 +17,14 @@ Largest 4 airlines in the USA control about 70-80% of the industry passenger tra
 How profitable is it to operate an airline?  
 What about other companies? (apple computer? general electric? coca-cola? walmart? etc...)  
 
+#### Airlines (Avg 2014-2016)
+| Rank | Airline | Operating Income (Margin) | Profit (Margin) | Tax Rate |
+| ---- | ------- | ------------------------- | --------------- | -------- |
+| 1. | American Airlines  | $5,246B (12.71%) | $4,042B (9.79%) |  -8.58%  |
+| 2. | United Airlines    | $0.000B (00.00%) | $0.000B (0.00%) |  +0.00%  |
+| 3. | Southwest Airlines | $0.000B (00.00%) | $0.000B (0.00%) |  +0.00%  |
+| 4. | Delta Airlines     | $5,653B (14.05%) | $4,955B (12.31%) |  +36.00%  |
+
 ## Airfare
 How has the price of an airline ticket changed from 1993 - 2016?  
 What about things that lower the value of a ticket not factored into price? (switch dates, check baggage, etc..)  
